@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "sản phẩm tốt nhất sao",
+      "price": 6328849,
+      "img": "https://res.cloudinary.com/dfpphware/image/upload/v1645406393/web16309-thao/xxviiuv4zc839hjtovlm.jpg",
+      "description": "sdwefnkernfkefdfd"
+    },
+    {
+      "id": "2",
+      "name": "sản phẩm A",
+      "price": 6328849,
+      "img": "https://res.cloudinary.com/dfpphware/image/upload/v1645406225/web16309-thao/ta7euu4ytwrohdurgx2c.jpg",
+      "description": "sdwefnkernfkefdfd"
+    },
+    {
+      "id": "3",
+      "name": "sản phẩm C",
+      "price": 6328849,
+      "img": "https://res.cloudinary.com/dfpphware/image/upload/v1645406042/web16309-thao/nt92hmdo8pzayy5tynno.jpg",
+      "description": "sdwefnkernfkefdfd"
+    },
+    {
+      "name": "sản phâm E",
+      "price": "24354",
+      "img": "nghmh",
+      "description": "adsdgdfhf",
+      "id": "KD94Xn-"
+    },
+    {
+      "name": "sanr phẩm I",
+      "price": "3445",
+      "img": "dsfnghmh",
+      "description": "xsafdgfhg",
+      "id": "gTKyD8K"
+    }
+  ],
+  "users": [
+    {
+      "username": "phuongthao",
+      "email": "thao24@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "username": "thao1234",
+      "email": "thao0987354@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "username": "thao02122002",
+      "email": "thaovtpph16945@fpt.edu.vn",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "username": "thao123456",
+      "email": "thao02@gmail.com",
+      "password": "12345678",
+      "id": 4
+    }
+  ]
+}
